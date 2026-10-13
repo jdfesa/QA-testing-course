@@ -7,6 +7,7 @@ Este archivo registra avances concretos del curso y enlaza la evidencia disponib
 | Class | Topic | Status | Evidence |
 | --- | --- | --- | --- |
 | 02 | El proceso de desarrollo y el rol del QA | Cuestionario completado: 10/10 (100%) | [Resultado del cuestionario](../assets/screenshots/class-02-quiz-result.png) |
+| 04 | Historias de Usuario, Criterios de Aceptación y Casos de Prueba | Cuestionario completado: 10/10 (100%) | [Resultado del cuestionario](../assets/screenshots/class-04-quiz-result.png) |
 
 ## Notes
 
